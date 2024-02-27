@@ -31,7 +31,9 @@
 
 
 - ⚡- Curiosidade: Sou um estudante de tecnologia apaixonado por jogos desde pequeno; no tempo livre, amo jogar League of Legends.
-- ![kios-angry](https://github.com/JvMendez/joaovmendes/assets/160972635/41c85fd4-0fd6-4057-86cb-32ad51d71fd5)
+
+![gato trabajando](https://github.com/JvMendez/JvMendez/assets/160972635/736762cb-adb7-4e33-bf06-8cb64e1e65b2)
+
 
 
 

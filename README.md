@@ -13,7 +13,7 @@
           
           
 - 👯- Estou procurando colaborar em projetos de baixa complexidade, aonde eu possa aprender cada vez mais.
-- 🤔- Estou procurando ajuda com o estudo de linguagens de programação, sua dica séra muito bem vinda.
+- 🤔- Estou procurando ajuda com o estudo de linguagens de programação, sua dica será muito bem vinda.
 -  💼- Estou a procura de estágio.
 
 - 📫- Meus contatos: <div>

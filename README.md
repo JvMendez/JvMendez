@@ -77,6 +77,7 @@ Me chamo João Vitor Mendes, tenho 22 anos e sou natural de Sorocaba. Atualmente
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvMendez&layout=compact&langs_count=7&theme=dracula" 
+    display:inline-block;
   />
 
 <img 
